@@ -1,6 +1,6 @@
 import { LinearGradient } from 'expo-linear-gradient';
 import React, { useEffect, useState } from 'react';
-import { Dimensions, Image, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { Image, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import GestureRecognizer from 'react-native-swipe-gestures';
 import { useDispatch } from 'react-redux';
 import { dateDefinition } from '../helpers/dateDefinition';
